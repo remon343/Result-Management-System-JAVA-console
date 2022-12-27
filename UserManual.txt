@@ -1,0 +1,51 @@
+Starting of the program .
+
+Step 1: Choose your position according to the number 1 for admin, 2 for facilitator and 3 for student . 
+
+Step 2 : Enter the username and then password to be logged in. 
+	Note: Username and passsword is "admin" and "admin". Username and password are case sensitive. 
+
+Step 3: After getting logged in :
+
+
+   	a. Admin
+	Step 3a.1:Choose the required choice given in the list. 
+`			1. Add Student
+			2. Add Facilitator
+			3. Add Marks
+			4. View Student 
+			5. View Facilitator
+			6. View Marks
+			7. Log out
+
+	Step 3a.2: After adding the required detail of the student or facilitator or marks then only
+		 details will be shown in view student or facilitator or view marks section.
+		Note: After Adding student or facilitator only then student and facilitator can log into 
+			the system. 
+		Note: Admin can add marks of each and every subject. 
+		Note: After adding ! Type "y" to return the same usertype menu or type any letter to return to the main menu.
+
+	Step 3a.3: If you chose log out you will be redirected to the main menu to choose the position.
+
+	b. Facilitator 
+	Step 3b:Choose the required choice given in the list. 
+			1. Add Marks
+			2. View Student
+			3. View Facilitator
+			4. View Marks
+			5. Log out
+
+	Step 3b.2 : Facilitator can also add marks.
+		Note: Facilitator can add marks of respective subject only.
+		Note: After adding ! Type "y" to return the same usertype menu or type any letter to return to the main menu.
+
+	c. Student 
+	Step 3c.1: Choose the required choice given in the list. 
+			1. View Student 
+			2. View Facilitator
+			3. View Marks
+			4. Log out
+	
+	Step 3c.2: Student can view the marks , student and facilitator.
+
+Step 4: If you want to exit, then click on exit button. 
